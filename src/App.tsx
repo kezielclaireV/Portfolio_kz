@@ -67,9 +67,9 @@ export default function App() {
         <div className="max-w-7xl mx-auto flex items-center justify-between">
           <div className="flex items-center gap-2">
             <div className="w-10 h-10 rounded-full flex items-center justify-center" style={{ backgroundColor: '#7D0531' }}>
-              <span className="text-white font-bold">KV</span>
+              <span className="text-white font-bold">P</span>
             </div>
-            <span className="font-semibold" style={{ color: '#7D0531' }}>Keziel Claire Valencia</span>
+            <span className="font-semibold" style={{ color: '#7D0531' }}>IT-Elective 6 Project</span>
           </div>
           <nav className="hidden md:flex gap-8">
             <a href="#home" className="hover:opacity-80 transition-opacity" style={{ color: '#7D0531' }}>Home</a>
@@ -114,7 +114,7 @@ export default function App() {
             {/* Right: Name, Position, Intro */}
             <div className="text-white text-center md:text-left">
               <div className="inline-block px-4 py-2 rounded-full mb-4" style={{ backgroundColor: 'rgba(255, 255, 255, 0.2)' }}>
-                <span className="text-sm">Welcome to my prtfolio</span>
+                <span className="text-sm">Welcome to my portfolio</span>
               </div>
               <h1 className="mb-4" style={{ fontSize: '3.5rem', fontWeight: '700', lineHeight: '1.1' }}>
                 Keziel Claire Valencia
